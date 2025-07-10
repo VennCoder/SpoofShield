@@ -1,4 +1,4 @@
-# SpoofShield - DeepLearning Based Email Spoofing Detection for Modern Email Systems
+# SpoofShield - Deep-Learning Based Email Spoofing Detection for Modern Email Systems
 
 SpoofShield is a Chrome extension that detects spoofed emails in real-time directly within Gmail. Powered by a local AI model, it analyzes email content to classify whether a message is legit or a potential spoof. The extension runs seamlessly in the background, overlays results next to email subjects, and maintains a session-based history of scanned emails — all without uploading your emails to the cloud.
 
