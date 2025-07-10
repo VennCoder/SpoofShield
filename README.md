@@ -2,6 +2,23 @@
 
 SpoofShield is a Chrome extension that detects spoofed emails in real-time directly within Gmail. Powered by a local AI model, it analyzes email content to classify whether a message is legit or a potential spoof. The extension runs seamlessly in the background, overlays results next to email subjects, and maintains a session-based history of scanned emails — all without uploading your emails to the cloud.
 
+
+# Prerequisites
+
+Before running this project, ensure the following dependencies are installed in your environment:
+
+### Flask – 
+A lightweight WSGI web application framework.
+
+### Flask-CORS – 
+A Flask extension for handling Cross-Origin Resource Sharing (CORS).
+
+### torch – 
+PyTorch, a deep learning framework.
+
+### transformers – 
+Hugging Face's Transformers library for natural language processing.
+
 ## Setup Instructions:
 
 1.Download the 2 folders: Backend and Frontend,and store them in the same directory.
