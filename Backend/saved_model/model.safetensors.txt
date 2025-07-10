@@ -1,3 +1,0 @@
-Download model.safetensors from the below Google Drive link and save it in saved_model:
-
-https://drive.google.com/drive/folders/1E7DQCKm_98p5AGSTKzxxWuSvQFul4t2L?usp=drive_link
